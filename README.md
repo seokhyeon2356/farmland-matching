@@ -185,6 +185,7 @@
 청년/어르신 사용자 데이터 구조와 입력·출력 항목은 아래 문서에서 확인할 수 있습니다.
 
 - [데이터 구조 Notion 바로가기](https://scented-gemini-52f.notion.site/24538986b40280bdb689e4ef3acc2496?source=copy_link)
+- [데이터베이스 ERD 바로가기](https://www.erdcloud.com/d/y2J9csfyKSwjERDkh)
 
 플랫폼에서 사용하는 API 명세서는 아래 문서에서 확인할 수 있습니다.
 
